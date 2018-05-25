@@ -14,6 +14,9 @@
  end
  
  group :development do
+   
+   gem 'devise'
+   
    # Use sqlite3 as the development database for Active Record
    gem 'sqlite3'
    gem 'web-console', '~> 2.0'
