@@ -41,6 +41,11 @@
  # Using tzinfo-data with Ruby on Rails
  gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
  
+ group :development, :test do
+   gem 'rspec-rails', '~> 3.0'
+   gem 'rails-controller-testing'
+ end
+ 
  group :development do
    gem 'listen', '~> 3.0.5'
  end

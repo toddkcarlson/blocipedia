@@ -1,4 +1,10 @@
+ <hr>
  <h1>All Wikis</h1>
+ <b><%= link_to "Create a Wiki", new_wiki_path %></b>
+ <hr>
+ </br>
  <% @wikis.each do |wiki| %>
    <p><%= link_to wiki.title, wiki %></p>
  <% end %>
+ </br>
+ <hr>
