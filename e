@@ -1,0 +1,72 @@
+[33mcommit 58c55c71cea9233ae908ef3ed6ea255bbc146865[m[33m ([m[1;36mHEAD -> [m[1;32mpundit[m[33m)[m
+Author: Todd Carlson <tcarlson@carlsonsw.com>
+Date:   Sun Jun 3 09:14:39 2018 -0400
+
+    installed pundit
+
+[33mcommit 1f421206246f4ba68ccc1a53b879b74bfca0414f[m[33m ([m[1;32mmaster[m[33m)[m
+Merge: a48240a 0e6748c
+Author: Todd Carlson <tcarlson@carlsonsw.com>
+Date:   Sat Jun 2 18:01:01 2018 -0400
+
+    fixed merge conflict
+
+[33mcommit 0e6748c9f955847abe6f8e6765252317ec8ad48a[m[33m ([m[1;31morigin/confirmable[m[33m, [m[1;32mconfirmable[m[33m)[m
+Author: Todd Carlson <tcarlson@carlsonsw.com>
+Date:   Sat Jun 2 15:05:47 2018 -0400
+
+    confirmable
+
+[33mcommit a48240a528450b3f35cba5ad99e36fc6a45908ed[m
+Author: Todd Carlson <tcarlson@carlsonsw.com>
+Date:   Sat Jun 2 10:57:04 2018 -0400
+
+    commented out before_action
+
+[33mcommit 975cda0a76df59338491e1e413ddf2e365a16503[m
+Author: Todd Carlson <tcarlson@carlsonsw.com>
+Date:   Sat Jun 2 07:27:40 2018 -0400
+
+    confirmable breaking site
+
+[33mcommit 78b907e4ee676fe31d2ef2b77c1d6ef97cff7fea[m[33m ([m[1;31morigin/wiki_crud[m[33m, [m[1;32mwiki_crud[m[33m)[m
+Author: Todd Carlson <tcarlson@carlsonsw.com>
+Date:   Thu May 31 18:34:56 2018 -0400
+
+    crud & seed
+
+[33mcommit 212a5dd2a1da0286de6287fecac549d682756e2b[m
+Author: Todd Carlson <tcarlson@carlsonsw.com>
+Date:   Sun May 27 16:23:02 2018 -0400
+
+    ud in crud
+
+[33mcommit f1b1dfbbf3ac3bf0ea7ca8481a7fbe5cd04e5455[m
+Author: Todd Carlson <tcarlson@carlsonsw.com>
+Date:   Sun May 27 16:00:43 2018 -0400
+
+    r in crud
+
+[33mcommit 48edb6be9e7a8463c0c65862725e40d04693f54a[m
+Author: Todd Carlson <tcarlson@carlsonsw.com>
+Date:   Fri May 25 08:54:57 2018 -0400
+
+    c of crud
+
+[33mcommit 35296da49a4f4b95ed9fe304868c6cc953e9b14a[m[33m ([m[1;31morigin/user-sign-up[m[33m, [m[1;31morigin/master[m[33m, [m[1;32muser-sign-up[m[33m)[m
+Author: Todd Carlson <tcarlson@carlsonsw.com>
+Date:   Thu May 24 22:08:53 2018 -0400
+
+    user-sign-up
+
+[33mcommit 4ea444ba10e798e7a76187469b4986c966b23110[m
+Author: Todd Carlson <tcarlson@carlsonsw.com>
+Date:   Thu May 24 21:18:36 2018 -0400
+
+    adding devise
+
+[33mcommit 35f8d142e9e2e1b7077a2aad4ab1972933cfc43f[m
+Author: Todd Carlson <tcarlson@carlsonsw.com>
+Date:   Tue May 22 22:01:58 2018 -0400
+
+    First commit
