@@ -7,7 +7,7 @@ class ApplicationPolicy
   end
 
   def index?
-    false
+    true
   end
 
   def show?
@@ -15,7 +15,7 @@ class ApplicationPolicy
   end
 
   def create?
-    user.admin? || user.premium?
+    update? 
   end
 
   def new?
@@ -31,7 +31,7 @@ class ApplicationPolicy
   end
 
   def destroy?
-    @wiki.user == user
+    record.user == user
   end
 
   def scope
