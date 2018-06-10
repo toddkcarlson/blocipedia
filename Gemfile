@@ -25,7 +25,8 @@
  gem 'faker'
  gem 'stripe'
  gem 'figaro', '1.0'
-
+ gem 'redcarpet'
+ 
  # Use Puma as the app server
  gem 'puma', '~> 3.0'
  # Use SCSS for stylesheets
