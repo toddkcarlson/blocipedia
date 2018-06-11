@@ -1,5 +1,5 @@
 Rails.application.routes.draw do
-  get 'downgrade_controller/new'
+  get 'downgrade/new'
 
   get 'wikis/index'
 
