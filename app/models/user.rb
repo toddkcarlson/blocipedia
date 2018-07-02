@@ -15,7 +15,7 @@ class User < ApplicationRecord
    end
 
    def wikis_to_public
-     current_user.wikis.update_all private false
+     return unless role_was == 'premium' && role == 'standard'
+     wikis.update_all(private: false)
    end
-
 end
